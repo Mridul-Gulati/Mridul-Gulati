@@ -6,4 +6,4 @@
 <p>💬 Ask me about Python, data science, Django, or anything related to computer science.</p>
 <p>👯 I’m looking to collaborate on open-source projects related to data science or web development.</p> 
 <p>⚡ Fun fact: I once implemented a machine learning model for predicting stock prices as a personal project.</p>
-<p> 📫 How to reach me: [Email](mailto:mridulgulati18@gmail.com)
+<p> 📫 How to reach me: <a href="mailto:mridulgulati18@gmail.com">mridulgulati18@gmail.com</a>
